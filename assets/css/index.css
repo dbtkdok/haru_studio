@@ -46,9 +46,8 @@ body {
 }
 
 .main-logo {
-  display: flex;
+  display: grid;
   justify-content: center;
-
   margin-bottom: 200px;
 }
 
