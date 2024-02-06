@@ -147,8 +147,7 @@ body {
 }
 
 .youth-studio-image {
-  width: 100%;
-
+  width: 93%;
   margin-bottom: 30px;
 }
 
@@ -267,7 +266,7 @@ body {
   gap: 20px;
   justify-content: center;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .content__image--width-full {
@@ -275,7 +274,7 @@ body {
 }
 
 .content__image--width-half {
-  width: 45%;
+  width: 80%;
 }
 
 .contact {
