@@ -342,6 +342,10 @@ body {
   margin: 0;
 }
 
+.about-sum__description_h4 {
+  font-size: 14px;
+}
+
 .about-sum__description--textAlign-center {
   text-align: center;
 }
